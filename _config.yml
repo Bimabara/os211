@@ -23,7 +23,7 @@ email: hocky.yudhiono@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Let's just keep it simple as the old saying says "Air beriak tanda tak dalam"
 # baseurl: "/os211" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://os.hockyy.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: hockyy
 
