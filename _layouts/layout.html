@@ -1,39 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- File _layouts/layout.html           -->
-<!-- (c) 2021 - 2021 VauLSMorg           -->
-<!-- START: Wed 17 Feb 2021 19:44:53 WIB -->
-<!-- This is a free HTML file            -->
 {% include head.html %}
-<body class="plainclass1">
-<!-- body class="backclass" -->
-<div class="container">
-  <header>
-  <div class="row">
-    <div class="column left">
+<body>
+  
+  <div class="container">
+    <div class="header-container">
       <img src="{{ site.baseurl }}/assets/images/hocky.jpg" alt="hocky" style="width:130px; border-radius:50%">
+      <h1 style="margin:0; padding:0;">{{ site.title | escape }}</h1>
+      <h2 style="margin:0; padding:0;">
+        Written by {% if page.author %}{{ page.author | escape }} {% else %}{{ site.author | escape }}{% endif %} in {% if page.address %}{{ page.address | escape }} {% else %}{{ site.address | escape }}{% endif %}
+      </h2>
     </div>
-    <div class="column right1">
-      {% if page.title %}{{ page.title | escape }}
-      {% else %}{{ site.title | escape }}{% endif %}
+    {% include navbar.html %}
+    <div class="markdown-section-container">
+      <div class="markdown-body">
+        {{ content }}
+      </div>
+
     </div>
-    <div class="column right2">
-      {% if page.author %}{{ page.author | escape }}
-      {% else %}{{ site.author | escape }}{% endif %}
-      ---
-      {% if page.address %}{{ page.address | escape }}
-      {% else %}{{ site.address | escape }}{% endif %}
-    </div>
+    {% include footer.html %}
+    {% include scripts.html %}
   </div>
-  </header>
-  {% include navbar.html %}
-  <section class="markdown-body">
-     {{ content }}
-  </section>
-  {% include footer.html %}
-  {% include scripts.html %}
-</div>
 </body>
+
 </html>
-
-
