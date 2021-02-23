@@ -9,13 +9,13 @@
 }
 
 .plainclass {
-  color:            white;
-  background-color: #001030;
+  color:            #000000;
+  background-color: #ffffff;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  color:            #000000;
+  background-color: #ffffff;
 }
 
 .container {
@@ -27,11 +27,11 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: #1502be;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #0c0264;
 }
 
 .row {
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: #bebebe;
+  color:            #424242;
   font-size:        0.7em;
 }
 
@@ -128,10 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
-  font-size:        1em;
-  font-weight:      bold;
+  text-decoration: underline;
 }
 
 pre {

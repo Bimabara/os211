@@ -7,3 +7,4 @@ ZCZC W00  40 L05 Stalking other students' progress
 ZCZC W00  40 L08 Trying SSH
 ZCZC W00  40 L22 Watching the video sir posted on forum
 ZCZC W00 300 L04 Setting up Jekyll
+ZCZC W00  80 L04 Deleting Jekyll Theme
