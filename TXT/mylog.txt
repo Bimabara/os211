@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# Week 00
 ZCZC W00  30 L04 Setting up github pages
 ZCZC W00 150 L21 Installing VMWare and Debian
 ZCZC W00  40 L05 Stalking other students' progress
@@ -9,3 +11,6 @@ ZCZC W00  40 L22 Watching the video sir posted on forum
 ZCZC W00 300 L04 Setting up Jekyll
 ZCZC W00  80 L04 Deleting Jekyll Theme
 ZCZC W00  40 L04 Setting pub key, optimize github page
+
+# Week 01
+ZCZC W01  50 L05 Solve Q01
