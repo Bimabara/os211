@@ -3,18 +3,18 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 # Week 00
-ZCZC W00  30 L04 Setting up github pages
-ZCZC W00 150 L21 Installing VMWare and Debian
-ZCZC W00  40 L05 Stalking other students' progress
-ZCZC W00  40 L08 Trying SSH
-ZCZC W00  40 L22 Watching the video sir posted on forum
-ZCZC W00 300 L04 Setting up Jekyll
-ZCZC W00  80 L04 Deleting Jekyll Theme
-ZCZC W00  40 L04 Setting pub key, optimize github page
+ZCZC W00  30 L04 Set up github pages
+ZCZC W00 150 L21 Install VMWare and Debian
+ZCZC W00  40 L05 Stalk other students' progress
+ZCZC W00  40 L08 Try SSH
+ZCZC W00  40 L22 Watch the video sir posted on forum
+ZCZC W00 300 L04 Set up Jekyll
+ZCZC W00  80 L04 Delete Jekyll Theme
+ZCZC W00  40 L04 Set pub key, optimize github page
 
 # Week 01
 ZCZC W01  50 L05 Solve Q01
 ZCZC W01  20 L05 Solve Q02
 ZCZC W01   5 L11 Make sure debian set up well
-ZCZC W01  10 L06 Reads about licenses
-
+ZCZC W01  10 L06 Read about licenses
+ZCZC W01  10 L00 Make a study plan
