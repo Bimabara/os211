@@ -14,3 +14,7 @@ ZCZC W00  40 L04 Setting pub key, optimize github page
 
 # Week 01
 ZCZC W01  50 L05 Solve Q01
+ZCZC W01  20 L05 Solve Q02
+ZCZC W01   5 L11 Make sure debian set up well
+ZCZC W01  10 L06 Reads about licenses
+
