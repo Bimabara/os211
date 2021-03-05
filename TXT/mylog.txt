@@ -18,3 +18,8 @@ ZCZC W01  20 L05 Solve Q02
 ZCZC W01   5 L11 Make sure debian set up well
 ZCZC W01  10 L06 Read about licenses
 ZCZC W01  10 L00 Make a study plan
+ZCZC W01 200 L06 Study for week 0's materials
+ZCZC W01  80 L17 Slowly making my way to fill up the lists
+
+
+# Study Hard! No more TABULA RASA. Jolan Tru!
