@@ -20,6 +20,7 @@ ZCZC W01  10 L06 Read about licenses
 ZCZC W01  10 L00 Make a study plan
 ZCZC W01 200 L06 Study for week 0's materials
 ZCZC W01  80 L17 Slowly making my way to fill up the lists
-
+ZCZC W01 300 L06 Study OSC book
+ZCZC W01  60 L05 Find material for OS
 
 # Study Hard! No more TABULA RASA. Jolan Tru!
