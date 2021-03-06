@@ -1,4 +1,7 @@
 # TOP 10 Rank
-# Format is
-# ZCZC WEEK GITHUB-USERNAME
-# ZCZC W00 hockyy
+
+# Week 00
+ZCZC W00 stevensim226
+ZCZC W00 dnswd
+
+
