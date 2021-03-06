@@ -22,5 +22,6 @@ ZCZC W01 200 L06 Study for week 0's materials
 ZCZC W01  80 L17 Slowly making my way to fill up the lists
 ZCZC W01 300 L06 Study OSC book
 ZCZC W01  60 L05 Find material for OS
+ZCZC W01 240 L05 Learn bash
 
 # Study Hard! No more TABULA RASA. Jolan Tru!
