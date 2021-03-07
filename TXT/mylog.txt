@@ -21,6 +21,7 @@ ZCZC W01  50 L12 Read all links
 ZCZC W01  35 L13 Try-try-try
 ZCZC W01  10 L00 Make a study plan
 ZCZC W01   2 L14 Done
+ZCZC W01 124 L22 Watch Lecture Video
 ZCZC W01   2 L15 Done
 ZCZC W01 200 L06 Study for week 0's materials
 ZCZC W01   2 L16 Done
@@ -28,5 +29,6 @@ ZCZC W01  80 L17 Slowly making my way to fill up the lists
 ZCZC W01 300 L19 Study OSC book
 ZCZC W01  60 L05 Find material for OS
 ZCZC W01 240 L18 Learn bash
+ZCZC W01 200 L06 Do exercise sheet
 
 # Study Hard! No more TABULA RASA. Jolan Tru!
