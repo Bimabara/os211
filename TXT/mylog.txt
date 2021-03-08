@@ -32,6 +32,11 @@ ZCZC W01 240 L18 Learn bash
 ZCZC W01 200 L06 Do exercise sheet
 
 # Week 02
-ZCZC W02  30 L13 Set up new GPG Key Pair
+ZCZC W02  30 L12 Set up new GPG Key Pair
 ZCZC W02  50 L11 Read OSC10 CH 16
+ZCZC W02   2 L13 Import public key
+ZCZC W02   4 L14 Exported my pubkey
+ZCZC W02   3 L17 Done
+
+# ToDo : Study Chapter 16 and 17 of OSC, up TOP 10
 # Study Hard! No more TABULA RASA. Jolan Tru!
