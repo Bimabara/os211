@@ -41,6 +41,8 @@ ZCZC W02  60 L11 Read OSC10 CH 16 more
 ZCZC W02  70 L16 Update Top 4 of Top 10 lists
 ZCZC W02 200 L16 Read OSC10 Ch 17
 ZCZC W02  50 L12 Try Demo
-ZCZC W02 100 L12 Finish Top 10
+ZCZC W02 300 L17 Finish Top 10
+ZCZC W02  40 L16 Update rank
+ZCZC W02  40 L19 Finish stuffs
 
 # Study Hard! No more TABULA RASA. Jolan Tru!
