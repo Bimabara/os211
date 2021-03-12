@@ -1,12 +1,8 @@
 # TOP 10 Rank
 
 # Week 01
-ZCZC W01 stevensim226
-ZCZC W01 alifsaddid
-ZCZC W01 dnswd
-
-# Week 02
-ZCZC W02 jojonicho
-ZCZC W02 Hori75
-ZCZC W02 irfancen
-
+ZCZC W01 ioriu
+ZCZC W01 ilmamannix
+ZCZC W01 ianandersenng
+ZCZC W01 jojonicho
+ZCZC W01 irfancen
