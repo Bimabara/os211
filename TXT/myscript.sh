@@ -51,18 +51,23 @@ for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
    [ -f $II ] && mv -f $II .
 done
 
+# Remove formerly made files
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
+# Get all sha256 sum of all files
 echo "sha256sum $FILES > $SHA"
 sha256sum $FILES > $SHA
 
+# Checksum of the sha
 echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
+# Sign the sha
 echo "gpg -o $SHA.asc -a -sb $SHA"
 gpg -o $SHA.asc -a -sb $SHA
 
+# Verify the sign
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
