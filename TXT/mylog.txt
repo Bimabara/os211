@@ -41,3 +41,9 @@ ZCZC W02  40 L19 Finish stuffs
 ZCZC W03  30 L12 Try demos
 ZCZC W03 120 L11 Read OSC-10
 ZCZC W03  10 L13 Check bash_aliases
+ZCZC W03  50 L14 Check some good stuffs of Week 2
+ZCZC W03 100 L17 Mess with FUSE
+ZCZC W03  10 L18 Update bash script, comment it
+
+
+
