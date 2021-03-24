@@ -45,4 +45,8 @@ ZCZC W03  50 L14 Check some good stuffs of Week 2
 ZCZC W03 100 L17 Mess with FUSE
 ZCZC W03  10 L18 Update bash script, comment it
 ZCZC W03 300 L12 Finish Top 10 and GSGS filesystems
-ZCZC W03 200 L08 Making scripts, Quiz 
+ZCZC W03 200 L08 Making scripts, Quiz
+ZCZC W04 120 L11 Read some OSC
+ZCZC W04  20 L13 Review last W03 Neighbourss top 10
+ZCZC W04 100 L12 Try demos
+
