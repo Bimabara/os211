@@ -49,4 +49,5 @@ ZCZC W03 200 L08 Making scripts, Quiz
 ZCZC W04 120 L11 Read some OSC
 ZCZC W04  20 L13 Review last W03 Neighbourss top 10
 ZCZC W04 100 L12 Try demos
-
+ZCZC W04 270 L14 Finish Top 10 list
+ZCZC W04  90 L12 Try Exercises and Demo 
