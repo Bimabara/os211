@@ -50,4 +50,8 @@ ZCZC W04 120 L11 Read some OSC
 ZCZC W04  20 L13 Review last W03 Neighbourss top 10
 ZCZC W04 100 L12 Try demos
 ZCZC W04 270 L14 Finish Top 10 list
-ZCZC W04  90 L12 Try Exercises and Demo 
+ZCZC W04  90 L12 Try Exercises and Demo
+ZCZC W05 200 L11 Read OSC-10 and Buku Kunyuk MDGR
+ZCZC W05 312 L13 Finish Top 10 List
+ZCZC W05  45 L12 Review Last Week List
+ZCZC W05 112 L14 Study Demo
