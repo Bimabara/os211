@@ -55,3 +55,4 @@ ZCZC W05 200 L11 Read OSC-10 and Buku Kunyuk MDGR
 ZCZC W05 312 L13 Finish Top 10 List
 ZCZC W05  45 L12 Review Last Week List
 ZCZC W05 112 L14 Study Demo
+ZCZC W06 135 L14 Do assignment, do quiz
