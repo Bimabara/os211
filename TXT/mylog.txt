@@ -58,3 +58,4 @@ ZCZC W05 112 L14 Study Demo
 ZCZC W06 135 L14 Do assignment, do quiz
 ZCZC W06 320 L11 Read about processes and threading
 ZCZC W06  12 L12 Review last week
+ZCZC W06 214 L13 Finish Top 10
