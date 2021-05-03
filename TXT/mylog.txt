@@ -64,3 +64,7 @@ ZCZC W07  41 L14 Do assignment
 ZCZC W07 369 L13 Do Top 10 List
 ZCZC W07  50 L11 Read OSC and Buku Kunyuk MDGR
 ZCZC W07 259 L05 GSGS and Forum
+ZCZC W08 123 L11 Read OSC
+ZCZC W08  24 L12 Review Last week's assignment
+ZCZC W08 141 L13 Finish assignment
+ZCZC W08 314 L12 Finish Top 10
