@@ -8,7 +8,7 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://os.hockyy.com/"
+urlweb:           "https://hockyy.github.io/os211/"
 urlgithub:        "https://github.com/hockyy/os211/"
 urlghpage:        "https://hockyy.github.io/os211/"
 keywords:         "jekyll, testing"
