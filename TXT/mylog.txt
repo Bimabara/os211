@@ -68,3 +68,8 @@ ZCZC W08 123 L11 Read OSC
 ZCZC W08  24 L12 Review Last week's assignment
 ZCZC W08 141 L13 Finish assignment
 ZCZC W08 314 L12 Finish Top 10
+ZCZC W09  67 L11 Read OSC
+ZCZC W09  23 L12 Review last week's assignment
+ZCZC W09 215 L13 Finish top 10
+ZCZC W09 314 L15 Finish assignment
+
